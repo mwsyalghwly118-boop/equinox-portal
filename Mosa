@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>Equinox Portal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <div class="lang">
+    <button>English</button>
+  </div>
+
+  <h1>نظام البلاغات الرسمي</h1>
+  <p>منصة آمنة وسريعة للمراسلات القانونية</p>
+
+  <form>
+    <input type="email" placeholder="بريد الجهة" required>
+    <input type="text" placeholder="الموضوع" required>
+    <textarea placeholder="نص الرسالة" required></textarea>
+    <button type="submit">إرسال</button>
+  </form>
+</div>
+
+</body>
+</html>
